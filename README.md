@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Camila Monteiro, from Brazil (🇧🇷). I've been working as Support analyst since 2018 and currently i'm Software Quality Engineer at Magazine Luiza. I'm passionate about I.T, data analytics and everthing who talking about technology.
+
+📫 Would you like to find me?
+https://www.linkedin.com/in/cgmonteiro/
+
+
+
+
+
 <!--
 **camilagomo/camilagomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
