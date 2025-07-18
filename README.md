@@ -8,7 +8,7 @@ My skills include:
 - Develop and executing automated tests with Cypress, Postman, and Insomnia;
 - Working in agile environments with methodologies like Kanban and Scrum, collaborating with multidisciplinary teams;
 
-Automation & Testing Tools:
+Automation & Testing Tools:  
 Rest-Assured, Supertest, BrowserStack, Cucumber, TestComplete, Postman, Insomnia, Mocha, Cypress, K6, Zephyr, Xray, Jira
 
 Languages: 
