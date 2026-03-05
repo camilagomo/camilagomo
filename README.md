@@ -5,7 +5,7 @@ My name is Camila Monteiro, from Brazil (🇧🇷). Technology professional, wor
 My skills include:
 
 - Test planning including exploratory, manual, automated, functional, and non-functional tests;
-- Develop and executing automated tests with Cypress, Postman, and Insomnia;
+- Develop and executing automated tests with Cypress, Playwrihgt, Postman, and Insomnia;
 - Working in agile environments with methodologies like Kanban and Scrum, collaborating with multidisciplinary teams;
 
 Automation & Testing Tools:  
